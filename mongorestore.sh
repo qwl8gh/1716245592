@@ -1,0 +1,1 @@
+mongorestore --verbose --db sampleDB --collection sample_collection dump/sample_collection.bson
